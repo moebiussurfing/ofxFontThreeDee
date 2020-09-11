@@ -2,7 +2,7 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    font.load("verdana.ttf",
+    font.load(OF_TTF_MONO,
          22,true, false, true);
 
 }

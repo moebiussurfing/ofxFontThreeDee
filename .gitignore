@@ -1,0 +1,17 @@
+
+exampleBasic/Project.xcconfig
+exampleBasic/openFrameworks-Info.plist
+exampleBasic/Makefile
+exampleBasic/exampleBasic.xcodeproj/xcshareddata/xcschemes/exampleBasic Release.xcscheme
+exampleBasic/exampleBasic.xcodeproj/xcshareddata/xcschemes/exampleBasic Debug.xcscheme
+exampleBasic/exampleBasic.xcodeproj/project.xcworkspace/xcuserdata/manumolina.xcuserdatad/UserInterfaceState.xcuserstate
+exampleBasic/exampleBasic.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+exampleBasic/exampleBasic.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+exampleBasic/exampleBasic.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+exampleBasic/exampleBasic.xcodeproj/project.pbxproj
+exampleBasic/config.make
+exampleBasic/bin/exampleBasicDebug.app/Contents/Resources/icon-debug.icns
+exampleBasic/bin/exampleBasicDebug.app/Contents/PkgInfo
+exampleBasic/bin/exampleBasicDebug.app/Contents/MacOS/exampleBasicDebug
+exampleBasic/bin/exampleBasicDebug.app/Contents/Info.plist
+exampleBasic/bin/exampleBasicDebug.app/Contents/Frameworks/libfmodex.dylib
